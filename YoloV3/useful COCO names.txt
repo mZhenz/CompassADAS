@@ -1,0 +1,9 @@
+0person
+1bicycle
+2car
+3motorbike
+5bus
+7truck
+9traffic light
+11stop sign
+12parking meter

@@ -1,0 +1,14 @@
+#建议创建虚拟环境，否则tensorflow包很容易出错
+#优先使用conda，conda没有就用pip
+qimage2ndarray==1.7
+pyqt5==5.10.1
+#只能用pip装，conda没有
+opencv-python==4.2.0
+tensorflow-gpu==1.13.1
+torch==1.4.0
+bs4==0.0.1
+opencv-python==4.2.0
+pyqt5==5.10.1
+sip==4.19.8
+easydict==1.9
+pyaudio==0.2.11
