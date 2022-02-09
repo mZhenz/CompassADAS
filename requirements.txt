@@ -4,7 +4,7 @@ qimage2ndarray==1.7
 pyqt5==5.10.1
 #只能用pip装，conda没有
 opencv-python==4.2.0
-tensorflow-gpu==1.13.1
+tensorflow-gpu==2.5.3
 torch==1.4.0
 bs4==0.0.1
 opencv-python==4.2.0
